@@ -8,7 +8,7 @@ const Summary = () => {
       <div className="flex items-center md:mt-[-50px] mt-[-50px]">
         <Physicalstats />
       </div>
-      <div className="flex items-start md:mb-5 mt-16">
+      <div className="flex items-start md:mb-5 md:mt-20 mt-16">
         <Summarybutton />
       </div>
     </div>
