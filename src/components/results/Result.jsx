@@ -2,7 +2,7 @@ import Circle from "./Circle";
 
 const Result = () => {
   return (
-    <div className="rounded-[32px] w-[375px] gradient-purple p-8 grid  justify-center text-[#CAC9FF]">
+    <div className="font-hanken rounded-[32px] w-[375px] gradient-purple p-8 grid justify-center text-[#CAC9FF]">
       <div className="text-2xl font-bold">Your Result</div>
       <div className="flex justify-center">
         <Circle />

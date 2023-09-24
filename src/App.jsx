@@ -1,6 +1,6 @@
 import "./App.css";
 import Result from "./components/results/Result";
-import Summary from "./components/Summary";
+import Summary from "./components/summary/Summary";
 
 function App() {
   return (
